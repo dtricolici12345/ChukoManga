@@ -1,0 +1,39 @@
+.rappel-recherche-container {
+  background-color: var(--neutral-200);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  border-radius: 10px;
+  margin: 3rem 0;
+  padding: 2rem;
+}
+
+.list-suggestion {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.link-suggestion:hover {
+  text-decoration: none;
+}
+
+.sugg {
+  padding: 0.2rem 1rem;
+  background-color: white;
+  color: #aeaeae;
+  box-shadow: 0 0 5px #aeaeae;
+  border-radius: 5px;
+}
+
+.title-rappel-recherche {
+  padding-bottom: 1rem;
+}
+
+.title2-rappel-recherche {
+  margin-top: 2.5rem;
+}

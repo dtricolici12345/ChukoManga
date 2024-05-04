@@ -1,0 +1,32 @@
+.section-coup-de-coeur {
+  padding: 3rem;
+  background-color: var(--secondary-clr);
+  color: var(--neutral-100);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: 3rem 0;
+  border-radius: 1rem;
+  font-size: var(--fs-L);
+  gap: 2rem;
+}
+
+.section-logo {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0.8rem 6rem;
+}
+
+.logo {
+  width: clamp(120px, 200px, 300px);
+}
+
+@media (max-width: 1200px) {
+  .logo {
+    width: clamp(120px, 140px, 300px);
+  }
+}
