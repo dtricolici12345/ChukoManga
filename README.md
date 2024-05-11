@@ -3,6 +3,9 @@ ChukoManga is a platform created with the aim of facilitating access to used man
 ChukoManga aims to create a virtual marketplace where users can freely buy and sell manga, post advertisements, and interact with other community members. We have designed a simple and intuitive interface to make the buying and selling process as easy as possible for everyone.
 
 The development of ChukoManga has been accompanied by special attention to the security and privacy of user data.
+
+
+
 ![7](https://github.com/dtricolici12345/ChukoManga/assets/150685346/b5c8fd6e-9456-4f2a-b974-0e1323f063f9)
 
 ![1](https://github.com/dtricolici12345/ChukoManga/assets/150685346/50407f5e-f1c8-42b2-b860-e1729d70b8a8)
